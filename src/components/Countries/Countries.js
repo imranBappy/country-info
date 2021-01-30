@@ -3,12 +3,8 @@ import './countries.css'
 const Countries = (props) => {
     const {
         name,
-        population,
-        subregion,
-        topLevelDomain,
-        alpha2Code, area,
-        demonym, region,
-        capital,
+        alpha2Code,
+        region,
         flag,
         timezones: [timeZone]
     }
