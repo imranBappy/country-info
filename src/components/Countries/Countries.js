@@ -9,11 +9,6 @@ const Countries = (props) => {
         timezones: [timeZone]
     }
         = props.country
-    let style = {
-
-    }
-
-
 
     return (
         <div style={{ border: '1px solid', marginTop: 20, width: 350 }}>
