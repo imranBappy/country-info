@@ -1,0 +1,17 @@
+.img{
+     width: 300px;
+      margin-top: 30px}
+
+.body{
+    line-height: 1;
+    font-size: 15px
+}
+.button{
+    background: greenyellow;
+    color: black;
+    width:150px;
+    height:40px;
+    border: none;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
